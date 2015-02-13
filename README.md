@@ -18,9 +18,7 @@ This package exports `CSVParse`. Example usage of the callback API:
       } catch (error) {
         throw new Meteor.Error('csv-parse-fail', error.message);
       }
-      // at this point, output contains
-      // [ { foo: '1', bar: '2' } ]
-      console.log(output);
+      console.log(output); // [ { foo: '1', bar: '2' } ]
     }
 
 ## See also
