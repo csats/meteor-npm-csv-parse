@@ -4,7 +4,7 @@ This package wraps the [csv-parse npm package](http://csv.adaltas.com/parse/).
 
 ## Install
 
-    meteor add csats:meteor-npm-csv-parse
+    meteor add csats:csv-parse
 
 ## Usage
 
