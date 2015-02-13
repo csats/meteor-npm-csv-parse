@@ -1,7 +1,7 @@
 'use strict';
 
 Package.describe({
-  name: 'csats:meteor-npm-csv-parse',
+  name: 'csats:csv-parse',
   summary: 'Wrapper for csv-parse npm package',
   version: '1.0.0',
   git: 'https://github.com/csats/meteor-npm-csv-parse'
