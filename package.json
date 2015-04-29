@@ -1,0 +1,29 @@
+{
+  "name": "meteor-npm-csv-parse",
+  "version": "1.0.1",
+  "description": "Meteor package wrapper for csv-parse npm package",
+  "main": "package.js",
+  "scripts": {
+    "test": "jshint --exclude-path .jshintignore --verbose ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csats/meteor-npm-csv-parse"
+  },
+  "author": {
+    "name": "C-SATS, Inc.",
+    "url": "http://www.csats.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csats/meteor-npm-csv-parse/issues"
+  },
+  "homepage": "https://github.com/csats/meteor-npm-csv-parse",
+  "dependencies": {
+    "jshint": "^2.7.0"
+  },
+  "keywords": [
+    "csv",
+    "meteor"
+  ]
+}
