@@ -1,5 +1,7 @@
 # csv-parse Meteor package
 
+[![Build Status](https://travis-ci.org/csats/meteor-npm-csv-parse.svg?branch=master)](https://travis-ci.org/csats/meteor-npm-csv-parse)
+
 This package wraps the [csv-parse npm package](http://csv.adaltas.com/parse/).
 
 ## Install
