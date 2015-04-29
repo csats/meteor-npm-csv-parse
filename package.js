@@ -15,6 +15,12 @@ Package.onUse(function(api) {
   api.export('CSVParse');
 });
 
+Package.onTest(function(api) {
+  api.use('csats:csv-parse');
+  api.use('tinytest@1.0.0');
+});
+
+
 Npm.depends({
   'csv-parse': '0.0.6'
 });
